@@ -13,4 +13,4 @@ Skiifactoryhomework2
 **Что практикуем**     
 Учимся писать хороший код на python
 
-Более подробно можно посмотреть по ссылке на [GoogleColab](https://colab.research.google.com/drive/1wcM4uE0DJjvRxmf-V-BwSLcqNC5ICUgh?usp=sharing) и в README.md в папке guess-number-task
+Более подробно можно посмотреть по ссылке на [GoogleColab](https://colab.research.google.com/drive/1wcM4uE0DJjvRxmf-V-BwSLcqNC5ICUgh?usp=sharing) и в [README.md](https://github.com/Konstagit/Skiifactoryhomework2/blob/main/guess-number-task/README.md) в папке guess-number-task
